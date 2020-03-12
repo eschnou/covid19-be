@@ -14,5 +14,5 @@ result["data"] = list()
 for row in reader:
 	result["data"].append(row)
 
-json.dump(result, jsonfile)
+json.dump(result, jsonfile, indent=4)
 jsonfile.write('\n')

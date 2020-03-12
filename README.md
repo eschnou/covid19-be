@@ -1,3 +1,7 @@
+### Link to the data
+- CSV  https://raw.githubusercontent.com/eschnou/covid19-be/master/covid19-belgium.csv
+- JSON https://raw.githubusercontent.com/eschnou/covid19-be/master/covid19-belgium.json
+
 ### Source for tests/cases/deaths: 
 https://www.info-coronavirus.be/fr/news/
 

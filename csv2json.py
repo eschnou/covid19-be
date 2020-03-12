@@ -2,11 +2,10 @@ import csv
 import json
 import datetime
 
-csvfile = open('covid19-belgium-latest.csv', 'r')
+csvfile = open('covid19-belgium.csv', 'r', encoding='utf-8-sig')
 jsonfile = open('covid19-belgium.json', 'w')
 
-fieldnames = ("date","daily_tests","daily_cases","cumul_tests","cumul_cases","icu","deceased")
-reader = csv.DictReader( csvfile, fieldnames)
+reader = csv.DictReader( csvfile)
 
 result = dict()
 result["last_update"] = datetime.datetime.now().isoformat()

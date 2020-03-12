@@ -1,4 +1,4 @@
-﻿data,daily_tests,daily_cases,cumul_tests,cumul_cases,icu,deceased
+﻿date,daily_tests,daily_cases,cumul_tests,cumul_cases,icu,deceased
 01/03/2020,,2,0,2,,
 02/03/2020,,6,0,8,,
 03/03/2020,243,5,243,13,,

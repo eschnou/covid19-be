@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-13T20:35:05.142000",
+    "last_update": "2020-03-15T09:08:57.076734",
     "data": [
         {
             "date": "01/03/2020",
@@ -7,6 +7,7 @@
             "daily_cases": "2",
             "cumul_tests": "0",
             "cumul_cases": "2",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -16,6 +17,7 @@
             "daily_cases": "6",
             "cumul_tests": "0",
             "cumul_cases": "8",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -25,6 +27,7 @@
             "daily_cases": "5",
             "cumul_tests": "243",
             "cumul_cases": "13",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -34,6 +37,7 @@
             "daily_cases": "10",
             "cumul_tests": "738",
             "cumul_cases": "23",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -43,6 +47,7 @@
             "daily_cases": "27",
             "cumul_tests": "738",
             "cumul_cases": "50",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -52,6 +57,7 @@
             "daily_cases": "59",
             "cumul_tests": "1179",
             "cumul_cases": "109",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -61,6 +67,7 @@
             "daily_cases": "60",
             "cumul_tests": "1950",
             "cumul_cases": "169",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -70,6 +77,7 @@
             "daily_cases": "31",
             "cumul_tests": "2372",
             "cumul_cases": "200",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -79,6 +87,7 @@
             "daily_cases": "39",
             "cumul_tests": "2706",
             "cumul_cases": "239",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -88,6 +97,7 @@
             "daily_cases": "28",
             "cumul_tests": "3149",
             "cumul_cases": "267",
+            "hospitalized": "",
             "icu": "20",
             "deceased": ""
         },
@@ -97,6 +107,7 @@
             "daily_cases": "47",
             "cumul_tests": "3788",
             "cumul_cases": "314",
+            "hospitalized": "",
             "icu": "",
             "deceased": "3"
         },
@@ -106,6 +117,7 @@
             "daily_cases": "85",
             "cumul_tests": "4594",
             "cumul_cases": "399",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
         },
@@ -113,10 +125,21 @@
             "date": "13/03/2020",
             "daily_tests": "",
             "daily_cases": "160",
-            "cumul_tests": "4594",
+            "cumul_tests": "",
             "cumul_cases": "559",
+            "hospitalized": "",
             "icu": "",
             "deceased": ""
+        },
+        {
+            "date": "14/03/2020",
+            "daily_tests": "",
+            "daily_cases": "133",
+            "cumul_tests": "",
+            "cumul_cases": "692",
+            "hospitalized": "97",
+            "icu": "24",
+            "deceased": "4"
         }
     ]
 }

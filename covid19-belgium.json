@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-16T11:28:35.346568",
+    "last_update": "2020-03-16T11:31:04.586529",
     "data": [
         {
             "date": "01/03/2020",
@@ -159,7 +159,7 @@
             "cumul_cases": "1058",
             "hospitalized": "252",
             "icu": "53",
-            "deceased": null
+            "deceased": ""
         }
     ]
 }

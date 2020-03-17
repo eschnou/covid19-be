@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-17T12:42:08.596433",
+    "last_update": "2020-03-17T16:02:40.991498",
     "data": [
         {
             "date": "01/03/2020",
@@ -130,7 +130,7 @@
             "cumul_cases": "399",
             "hospitalized": "",
             "icu": "",
-            "deceased": "",
+            "deceased": "3",
             "released": ""
         },
         {
@@ -141,7 +141,7 @@
             "cumul_cases": "559",
             "hospitalized": "",
             "icu": "",
-            "deceased": "",
+            "deceased": "3",
             "released": ""
         },
         {
@@ -163,7 +163,7 @@
             "cumul_cases": "883",
             "hospitalized": "163",
             "icu": "33",
-            "deceased": "",
+            "deceased": "4",
             "released": ""
         },
         {

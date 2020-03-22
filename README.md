@@ -1,10 +1,15 @@
-### Link to the data
+### Static links to the data
 - CSV  https://raw.githubusercontent.com/eschnou/covid19-be/master/covid19-belgium.csv
 - JSON https://raw.githubusercontent.com/eschnou/covid19-be/master/covid19-belgium.json
 
-### Source for tests/cases/deaths: 
+### Source 
 https://www.info-coronavirus.be/fr/news/
+https://epidemio.wiv-isp.be/ID/Pages/2019-nCoV_epidemiological_situation.aspx
 
-### Source for hospitalized patients
+### License
 
-- 10/03/2020 - [Le Soir](https://plus.lesoir.be/285835/article/2020-03-10/philippe-leroy-chu-saint-pierre-nous-sommes-extremement-loin-du-scenario-italien)
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+

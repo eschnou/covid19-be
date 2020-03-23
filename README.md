@@ -5,6 +5,7 @@
 ### Source 
 https://www.info-coronavirus.be/fr/news/
 https://epidemio.wiv-isp.be/ID/Pages/2019-nCoV_epidemiological_situation.aspx
+https://news.belgium.be/en/corona
 
 ### License
 

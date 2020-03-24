@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-03-23T02:33:53.721724",
+    "last_update": "2020-03-24T11:18:58.636360",
     "data": [
         {
             "date": "01/03/2020",
@@ -253,6 +253,17 @@
             "icu": "322",
             "deceased": "88",
             "released": "61"
+        },
+        {
+            "date": "24/03/2020",
+            "daily_tests": "",
+            "daily_cases": "526",
+            "cumul_tests": "",
+            "cumul_cases": "4269",
+            "hospitalized": "1859",
+            "icu": "381",
+            "deceased": "122",
+            "released": "60"
         }
     ]
 }

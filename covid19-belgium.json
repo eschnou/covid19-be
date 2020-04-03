@@ -1,11 +1,11 @@
 {
-    "last_update": "2020-04-02T12:12:47.661471",
+    "last_update": "2020-04-03T13:54:05.010947",
     "data": [
         {
             "date": "01/03/2020",
             "daily_tests": "",
             "daily_cases": "2",
-            "cumul_tests": "0",
+            "cumul_tests": "",
             "cumul_cases": "2",
             "hospitalized": "",
             "icu": "",
@@ -18,16 +18,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "02/03/2020",
-            "daily_tests": "",
+            "daily_tests": "57",
             "daily_cases": "6",
-            "cumul_tests": "0",
+            "cumul_tests": "57",
             "cumul_cases": "8",
             "hospitalized": "",
             "icu": "",
@@ -40,16 +37,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "03/03/2020",
-            "daily_tests": "243",
+            "daily_tests": "273",
             "daily_cases": "5",
-            "cumul_tests": "243",
+            "cumul_tests": "330",
             "cumul_cases": "13",
             "hospitalized": "",
             "icu": "",
@@ -62,16 +56,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "04/03/2020",
-            "daily_tests": "495",
+            "daily_tests": "476",
             "daily_cases": "10",
-            "cumul_tests": "738",
+            "cumul_tests": "806",
             "cumul_cases": "23",
             "hospitalized": "",
             "icu": "",
@@ -84,16 +75,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "05/03/2020",
-            "daily_tests": "",
+            "daily_tests": "638",
             "daily_cases": "27",
-            "cumul_tests": "738",
+            "cumul_tests": "1444",
             "cumul_cases": "50",
             "hospitalized": "",
             "icu": "",
@@ -106,16 +94,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "06/03/2020",
-            "daily_tests": "441",
+            "daily_tests": "705",
             "daily_cases": "59",
-            "cumul_tests": "1179",
+            "cumul_tests": "2149",
             "cumul_cases": "109",
             "hospitalized": "",
             "icu": "",
@@ -128,16 +113,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "07/03/2020",
-            "daily_tests": "771",
+            "daily_tests": "1010",
             "daily_cases": "60",
-            "cumul_tests": "1950",
+            "cumul_tests": "3159",
             "cumul_cases": "169",
             "hospitalized": "",
             "icu": "",
@@ -150,16 +132,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "08/03/2020",
-            "daily_tests": "422",
+            "daily_tests": "404",
             "daily_cases": "31",
-            "cumul_tests": "2372",
+            "cumul_tests": "3563",
             "cumul_cases": "200",
             "hospitalized": "",
             "icu": "",
@@ -172,16 +151,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "09/03/2020",
-            "daily_tests": "334",
+            "daily_tests": "401",
             "daily_cases": "39",
-            "cumul_tests": "2706",
+            "cumul_tests": "3964",
             "cumul_cases": "239",
             "hospitalized": "",
             "icu": "",
@@ -194,16 +170,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "10/03/2020",
-            "daily_tests": "443",
+            "daily_tests": "556",
             "daily_cases": "28",
-            "cumul_tests": "3149",
+            "cumul_tests": "4520",
             "cumul_cases": "267",
             "hospitalized": "",
             "icu": "20",
@@ -216,16 +189,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "11/03/2020",
-            "daily_tests": "639",
+            "daily_tests": "764",
             "daily_cases": "47",
-            "cumul_tests": "3788",
+            "cumul_tests": "5284",
             "cumul_cases": "314",
             "hospitalized": "",
             "icu": "",
@@ -238,16 +208,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "1",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "12/03/2020",
-            "daily_tests": "806",
+            "daily_tests": "1017",
             "daily_cases": "85",
-            "cumul_tests": "4594",
+            "cumul_tests": "6301",
             "cumul_cases": "399",
             "hospitalized": "",
             "icu": "",
@@ -260,16 +227,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "2",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "13/03/2020",
-            "daily_tests": "",
+            "daily_tests": "1413",
             "daily_cases": "160",
-            "cumul_tests": "8761",
+            "cumul_tests": "7714",
             "cumul_cases": "559",
             "hospitalized": "",
             "icu": "",
@@ -282,16 +246,13 @@
             "daily_bru": "",
             "cumul_vld": "",
             "cumul_wal": "",
-            "cumul_bru": "",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "1",
-            "daily_deceased_vld": ""
+            "cumul_bru": ""
         },
         {
             "date": "14/03/2020",
-            "daily_tests": "1739",
+            "daily_tests": "2412",
             "daily_cases": "133",
-            "cumul_tests": "10500",
+            "cumul_tests": "10126",
             "cumul_cases": "689",
             "hospitalized": "97",
             "icu": "24",
@@ -304,16 +265,13 @@
             "daily_bru": "13",
             "cumul_vld": "433",
             "cumul_wal": "174",
-            "cumul_bru": "71",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "2",
-            "daily_deceased_vld": ""
+            "cumul_bru": "71"
         },
         {
             "date": "15/03/2020",
-            "daily_tests": "2550",
+            "daily_tests": "1994",
             "daily_cases": "197",
-            "cumul_tests": "13050",
+            "cumul_tests": "12120",
             "cumul_cases": "886",
             "hospitalized": "163",
             "icu": "33",
@@ -326,16 +284,13 @@
             "daily_bru": "27",
             "cumul_vld": "570",
             "cumul_wal": "202",
-            "cumul_bru": "98",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "3",
-            "daily_deceased_vld": ""
+            "cumul_bru": "98"
         },
         {
             "date": "16/03/2020",
-            "daily_tests": "1279",
+            "daily_tests": "1167",
             "daily_cases": "172",
-            "cumul_tests": "14329",
+            "cumul_tests": "13287",
             "cumul_cases": "1058",
             "hospitalized": "252",
             "icu": "53",
@@ -348,16 +303,13 @@
             "daily_bru": "17",
             "cumul_vld": "650",
             "cumul_wal": "270",
-            "cumul_bru": "115",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "2",
-            "daily_deceased_vld": "1"
+            "cumul_bru": "115"
         },
         {
             "date": "17/03/2020",
-            "daily_tests": "1671",
+            "daily_tests": "1704",
             "daily_cases": "185",
-            "cumul_tests": "16000",
+            "cumul_tests": "14991",
             "cumul_cases": "1243",
             "hospitalized": "361",
             "icu": "79",
@@ -370,16 +322,13 @@
             "daily_bru": "33",
             "cumul_vld": "756",
             "cumul_wal": "303",
-            "cumul_bru": "153",
-            "daily_deceased_wal": "4",
-            "daily_deceased_bru": "3",
-            "daily_deceased_vld": ""
+            "cumul_bru": "153"
         },
         {
             "date": "18/03/2020",
-            "daily_tests": "2360",
+            "daily_tests": "1935",
             "daily_cases": "243",
-            "cumul_tests": "18360",
+            "cumul_tests": "16926",
             "cumul_cases": "1486",
             "hospitalized": "496",
             "icu": "100",
@@ -392,16 +341,13 @@
             "daily_bru": "41",
             "cumul_vld": "889",
             "cumul_wal": "369",
-            "cumul_bru": "194",
-            "daily_deceased_wal": "2",
-            "daily_deceased_bru": "3",
-            "daily_deceased_vld": ""
+            "cumul_bru": "194"
         },
         {
             "date": "19/03/2020",
-            "daily_tests": "1640",
+            "daily_tests": "2386",
             "daily_cases": "309",
-            "cumul_tests": "20000",
+            "cumul_tests": "19312",
             "cumul_cases": "1795",
             "hospitalized": "634",
             "icu": "130",
@@ -414,16 +360,13 @@
             "daily_bru": "48",
             "cumul_vld": "1034",
             "cumul_wal": "464",
-            "cumul_bru": "242",
-            "daily_deceased_wal": "4",
-            "daily_deceased_bru": "7",
-            "daily_deceased_vld": ""
+            "cumul_bru": "242"
         },
         {
             "date": "20/03/2020",
-            "daily_tests": "3423",
+            "daily_tests": "2956",
             "daily_cases": "462",
-            "cumul_tests": "23423",
+            "cumul_tests": "22268",
             "cumul_cases": "2257",
             "hospitalized": "837",
             "icu": "164",
@@ -436,16 +379,13 @@
             "daily_bru": "43",
             "cumul_vld": "1336",
             "cumul_wal": "554",
-            "cumul_bru": "285",
-            "daily_deceased_wal": "11",
-            "daily_deceased_bru": "5",
-            "daily_deceased_vld": "3"
+            "cumul_bru": "285"
         },
         {
             "date": "21/03/2020",
             "daily_tests": "2577",
             "daily_cases": "558",
-            "cumul_tests": "26000",
+            "cumul_tests": "24845",
             "cumul_cases": "2815",
             "hospitalized": "1089",
             "icu": "238",
@@ -458,16 +398,13 @@
             "daily_bru": "50",
             "cumul_vld": "1628",
             "cumul_wal": "754",
-            "cumul_bru": "335",
-            "daily_deceased_wal": "8",
-            "daily_deceased_bru": "5",
-            "daily_deceased_vld": "4"
+            "cumul_bru": "335"
         },
         {
             "date": "22/03/2020",
-            "daily_tests": "",
+            "daily_tests": "1991",
             "daily_cases": "586",
-            "cumul_tests": "",
+            "cumul_tests": "26836",
             "cumul_cases": "3401",
             "hospitalized": "1380",
             "icu": "290",
@@ -480,16 +417,13 @@
             "daily_bru": "70",
             "cumul_vld": "2040",
             "cumul_wal": "853",
-            "cumul_bru": "405",
-            "daily_deceased_wal": "10",
-            "daily_deceased_bru": "1",
-            "daily_deceased_vld": "7"
+            "cumul_bru": "405"
         },
         {
             "date": "23/03/2020",
-            "daily_tests": "",
+            "daily_tests": "1195",
             "daily_cases": "342",
-            "cumul_tests": "",
+            "cumul_tests": "28031",
             "cumul_cases": "3743",
             "hospitalized": "1643",
             "icu": "322",
@@ -502,16 +436,13 @@
             "daily_bru": "45",
             "cumul_vld": "2213",
             "cumul_wal": "971",
-            "cumul_bru": "450",
-            "daily_deceased_wal": "6",
-            "daily_deceased_bru": "4",
-            "daily_deceased_vld": "7"
+            "cumul_bru": "450"
         },
         {
             "date": "24/03/2020",
-            "daily_tests": "",
+            "daily_tests": "2658",
             "daily_cases": "526",
-            "cumul_tests": "",
+            "cumul_tests": "30689",
             "cumul_cases": "4269",
             "hospitalized": "1859",
             "icu": "381",
@@ -524,16 +455,13 @@
             "daily_bru": "38",
             "cumul_vld": "2594",
             "cumul_wal": "1058",
-            "cumul_bru": "488",
-            "daily_deceased_wal": "23",
-            "daily_deceased_bru": "9",
-            "daily_deceased_vld": "23"
+            "cumul_bru": "488"
         },
         {
             "date": "25/03/2020",
-            "daily_tests": "",
+            "daily_tests": "3280",
             "daily_cases": "668",
-            "cumul_tests": "",
+            "cumul_tests": "33969",
             "cumul_cases": "4937",
             "hospitalized": "2152",
             "icu": "474",
@@ -546,16 +474,13 @@
             "daily_bru": "57",
             "cumul_vld": "3023",
             "cumul_wal": "1234",
-            "cumul_bru": "545",
-            "daily_deceased_wal": "22",
-            "daily_deceased_bru": "3",
-            "daily_deceased_vld": "23"
+            "cumul_bru": "545"
         },
         {
             "date": "26/03/2020",
-            "daily_tests": "",
+            "daily_tests": "3605",
             "daily_cases": "1298",
-            "cumul_tests": "",
+            "cumul_tests": "37574",
             "cumul_cases": "6235",
             "hospitalized": "2652",
             "icu": "605",
@@ -568,16 +493,13 @@
             "daily_bru": "164",
             "cumul_vld": "3880",
             "cumul_wal": "1490",
-            "cumul_bru": "709",
-            "daily_deceased_wal": "21",
-            "daily_deceased_bru": "6",
-            "daily_deceased_vld": "30"
+            "cumul_bru": "709"
         },
         {
             "date": "27/03/2020",
-            "daily_tests": "2802",
+            "daily_tests": "3715",
             "daily_cases": "1049",
-            "cumul_tests": "40718",
+            "cumul_tests": "41289",
             "cumul_cases": "7284",
             "hospitalized": "3042",
             "icu": "690",
@@ -590,16 +512,13 @@
             "daily_bru": "137",
             "cumul_vld": "4652",
             "cumul_wal": "1621",
-            "cumul_bru": "846",
-            "daily_deceased_wal": "4",
-            "daily_deceased_bru": "4",
-            "daily_deceased_vld": "12"
+            "cumul_bru": "846"
         },
         {
             "date": "28/03/2020",
-            "daily_tests": "",
+            "daily_tests": "3906",
             "daily_cases": "1850",
-            "cumul_tests": "",
+            "cumul_tests": "45195",
             "cumul_cases": "9134",
             "hospitalized": "3717",
             "icu": "789",
@@ -612,16 +531,13 @@
             "daily_bru": "134",
             "cumul_vld": "5475",
             "cumul_wal": "2496",
-            "cumul_bru": "980",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": "980"
         },
         {
             "date": "29/03/2020",
-            "daily_tests": "",
+            "daily_tests": "3283",
             "daily_cases": "1702",
-            "cumul_tests": "",
+            "cumul_tests": "48478",
             "cumul_cases": "10836",
             "hospitalized": "4138",
             "icu": "867",
@@ -634,16 +550,13 @@
             "daily_bru": "85",
             "cumul_vld": "6381",
             "cumul_wal": "3187",
-            "cumul_bru": "1065",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": "1065"
         },
         {
             "date": "30/03/2020",
-            "daily_tests": "",
+            "daily_tests": "1962",
             "daily_cases": "1063",
-            "cumul_tests": "",
+            "cumul_tests": "50440",
             "cumul_cases": "11899",
             "hospitalized": "4524",
             "icu": "927",
@@ -656,16 +569,13 @@
             "daily_bru": "198",
             "cumul_vld": "7064",
             "cumul_wal": "3351",
-            "cumul_bru": "1263",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": "1263"
         },
         {
             "date": "31/03/2020",
-            "daily_tests": "2500",
+            "daily_tests": "3131",
             "daily_cases": "876",
-            "cumul_tests": "52072",
+            "cumul_tests": "53571",
             "cumul_cases": "12775",
             "hospitalized": "4920",
             "icu": "1021",
@@ -678,16 +588,13 @@
             "daily_bru": "189",
             "cumul_vld": "7531",
             "cumul_wal": "3554",
-            "cumul_bru": "1452",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": "1452"
         },
         {
             "date": "01/04/2020",
-            "daily_tests": "4255",
+            "daily_tests": "4893",
             "daily_cases": "1189",
-            "cumul_tests": "56327",
+            "cumul_tests": "58464",
             "cumul_cases": "13964",
             "hospitalized": "4995",
             "icu": "1088",
@@ -700,16 +607,13 @@
             "daily_bru": "128",
             "cumul_vld": "8219",
             "cumul_wal": "3903",
-            "cumul_bru": "1580",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": "1580"
         },
         {
             "date": "02/04/2020",
-            "daily_tests": "",
+            "daily_tests": "4033",
             "daily_cases": "1384",
-            "cumul_tests": "",
+            "cumul_tests": "62497",
             "cumul_cases": "15348",
             "hospitalized": "5376",
             "icu": "1144",
@@ -722,10 +626,26 @@
             "daily_bru": "137",
             "cumul_vld": "9131",
             "cumul_wal": "4220",
-            "cumul_bru": "1717",
-            "daily_deceased_wal": "",
-            "daily_deceased_bru": "",
-            "daily_deceased_vld": ""
+            "cumul_bru": "1717"
+        },
+        {
+            "date": "03/04/2020",
+            "daily_tests": "",
+            "daily_cases": "1422",
+            "cumul_tests": "",
+            "cumul_cases": "16770",
+            "hospitalized": "5552",
+            "icu": "1205",
+            "daily_deceased": "132",
+            "cumul_deceased": "1143",
+            "daily_released": "377",
+            "cumul_released": "2872",
+            "daily_vld": "865",
+            "daily_wal": "374",
+            "daily_bru": "167",
+            "cumul_vld": "9996",
+            "cumul_wal": "4594",
+            "cumul_bru": "1884"
         }
     ]
 }

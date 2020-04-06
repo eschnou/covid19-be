@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-04-06T11:30:44.124992",
+    "last_update": "2020-04-06T12:15:37.290833",
     "data": [
         {
             "date": "01/03/2020",
@@ -695,8 +695,8 @@
             "icu": "1257",
             "daily_deceased": "185",
             "cumul_deceased": "1632",
-            "daily_released": "420",
-            "cumul_released": "4137",
+            "daily_released": "235",
+            "cumul_released": "3952",
             "daily_vld": "686",
             "daily_wal": "262",
             "daily_bru": "137",

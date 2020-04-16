@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-04-15T11:24:29.313393",
+    "last_update": "2020-04-16T11:44:37.436311",
     "data": [
         {
             "date": "01/03/2020",
@@ -874,6 +874,25 @@
             "cumul_vld": "19666",
             "cumul_wal": "9999",
             "cumul_bru": "3404"
+        },
+        {
+            "date": "16/04/2020",
+            "daily_tests": "",
+            "daily_cases": "1236",
+            "cumul_tests": "",
+            "cumul_cases": "34809",
+            "hospitalized": "5309",
+            "icu": "1182",
+            "daily_deceased": "417",
+            "cumul_deceased": "4857",
+            "daily_released": "455",
+            "cumul_released": "7562",
+            "daily_vld": "834",
+            "daily_wal": "329",
+            "daily_bru": "64",
+            "cumul_vld": "20500",
+            "cumul_wal": "10328",
+            "cumul_bru": "3468"
         }
     ]
 }

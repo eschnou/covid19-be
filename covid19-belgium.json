@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-05-08T11:23:32.370913",
+    "last_update": "2020-05-11T08:08:33.617459",
     "data": [
         {
             "date": "01/03/2020",
@@ -1256,7 +1256,7 @@
             "cumul_bru": "5176"
         },
         {
-            "date": "06/06/2020",
+            "date": "06/05/2020",
             "daily_tests": "",
             "daily_cases": "272",
             "cumul_tests": "",
@@ -1275,7 +1275,7 @@
             "cumul_bru": "5186"
         },
         {
-            "date": "07/06/2020",
+            "date": "07/05/2020",
             "daily_tests": "",
             "daily_cases": "639",
             "cumul_tests": "",
@@ -1294,7 +1294,7 @@
             "cumul_bru": "5287"
         },
         {
-            "date": "08/06/2020",
+            "date": "08/05/2020",
             "daily_tests": "",
             "daily_cases": "591",
             "cumul_tests": "",
@@ -1311,6 +1311,44 @@
             "cumul_vld": "28860",
             "cumul_wal": "16778",
             "cumul_bru": "5344"
+        },
+        {
+            "date": "09/05/2020",
+            "daily_tests": "",
+            "daily_cases": "585",
+            "cumul_tests": "",
+            "cumul_cases": "52596",
+            "hospitalized": "2381",
+            "icu": "502",
+            "daily_deceased": "76",
+            "cumul_deceased": "8581",
+            "daily_released": "210",
+            "cumul_released": "13411",
+            "daily_vld": "407",
+            "daily_wal": "129",
+            "daily_bru": "45",
+            "cumul_vld": "29267",
+            "cumul_wal": "16907",
+            "cumul_bru": "5389"
+        },
+        {
+            "date": "10/05/2020",
+            "daily_tests": "",
+            "daily_cases": "485",
+            "cumul_tests": "",
+            "cumul_cases": "53801",
+            "hospitalized": "2222",
+            "icu": "476",
+            "daily_deceased": "75",
+            "cumul_deceased": "8656",
+            "daily_released": "231",
+            "cumul_released": "13642",
+            "daily_vld": "301",
+            "daily_wal": "144",
+            "daily_bru": "35",
+            "cumul_vld": "29568",
+            "cumul_wal": "17051",
+            "cumul_bru": "5424"
         }
     ]
 }

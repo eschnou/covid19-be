@@ -1,5 +1,5 @@
 {
-    "last_update": "2020-05-12T19:45:52.987377",
+    "last_update": "2020-05-15T08:41:51.554095",
     "data": [
         {
             "date": "01/03/2020",
@@ -1387,6 +1387,44 @@
             "cumul_vld": "29915",
             "cumul_wal": "17337",
             "cumul_bru": "5485"
+        },
+        {
+            "date": "13/05/2020",
+            "daily_tests": "",
+            "daily_cases": "202",
+            "cumul_tests": "",
+            "cumul_cases": "53981",
+            "hospitalized": "2014",
+            "icu": "420",
+            "daily_deceased": "82",
+            "cumul_deceased": "8843",
+            "daily_released": "205",
+            "cumul_released": "13937",
+            "daily_vld": "150",
+            "daily_wal": "31",
+            "daily_bru": "19",
+            "cumul_vld": "30065",
+            "cumul_wal": "17368",
+            "cumul_bru": "5504"
+        },
+        {
+            "date": "14/05/2020",
+            "daily_tests": "",
+            "daily_cases": "307",
+            "cumul_tests": "",
+            "cumul_cases": "54288",
+            "hospitalized": "1966",
+            "icu": "407",
+            "daily_deceased": "60",
+            "cumul_deceased": "8903",
+            "daily_released": "173",
+            "cumul_released": "14111",
+            "daily_vld": "186",
+            "daily_wal": "90",
+            "daily_bru": "31",
+            "cumul_vld": "30251",
+            "cumul_wal": "17458",
+            "cumul_bru": "5535"
         }
     ]
 }
